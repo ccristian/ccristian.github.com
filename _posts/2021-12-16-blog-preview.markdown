@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preview Page"
-date:   2021-12-16 00:18:23 +0700
+date:   2021-12-16
 categories: [general]
 ---
 
