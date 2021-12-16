@@ -1,0 +1,57 @@
+title: Cristian's Chiovari test pages
+description: A place where I publish my ideas, work , anything I consider worth sharing
+author: Cristian Chiovari Test Page
+github: https://github.com/ccristian
+about: I'm a Software Engineer working latetly as IT Architect (Enterprise,Solution,Techical). 
+#disqus_shortname: stackproblems
+disqus_shortname: chiovari
+google_analytics: UA-XXXXXXXX-Y
+
+
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/chiovari"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/cristian-chiovari-1a0a82/"
+    - icon: fa-stack-exchange
+      link: "https://stackexchange.com/users/290453/cris"
+    - icon: fa-github
+      link: "https://github.com/ccristian"
+
+share:
+  twitter_username: github.io
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    #- text: My Projects
+    #  url: /projects/
+    #- text: XML Feed
+    #  url: /feed.xml
+
+url: "https://ccristian.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+dependencies:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
