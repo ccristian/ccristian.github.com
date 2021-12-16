@@ -1,6 +1,6 @@
 title: Cristian's Chiovari test pages
 description: A place where I publish my ideas, work , anything I consider worth sharing
-author: Cristian Chiovari Test Page
+author: Cristian Chiovari's Blog
 github: https://github.com/ccristian
 about: I'm a Software Engineer working latetly as IT Architect (Enterprise,Solution,Techical). 
 #disqus_shortname: stackproblems
@@ -49,9 +49,9 @@ dependencies:
   - jekyll-paginate
   - jekyll-gist
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: ['development']
+#compress_html:
+#  clippings: all
+#  comments: ["<!-- ", " -->"]
+#  endings: all
+#  ignore:
+#    envs: ['development']
