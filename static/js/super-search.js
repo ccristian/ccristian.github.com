@@ -3,6 +3,7 @@
     MIT Licensed
 */
 
+
 (function () {
     var isSearchOpen = false,
         searchEl = document.querySelector('#js-search'),
