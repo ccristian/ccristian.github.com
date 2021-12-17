@@ -6,7 +6,6 @@ categories: [general]
 ---
 
 ### First Post - Preview Page Types
-[Listing Pages](samples/listings-page)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
