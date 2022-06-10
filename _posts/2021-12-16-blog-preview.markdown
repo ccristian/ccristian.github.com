@@ -5,6 +5,9 @@ date:   2021-12-16
 categories: [general]
 ---
 
+# Test 1
+## Test 2
+
 ### First Post - Preview Page Types
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -54,7 +57,7 @@ end
 
 ###### [](#header-6)Header 6
 
-| head1        | head two          | three |
+|   head1      | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |

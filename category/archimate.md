@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: architmate
+categories: archimate
 title: Archimate
 permalink: /category/archimate
 ---
